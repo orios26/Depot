@@ -26,4 +26,4 @@ Ruby on Rails helps you produce high-quality, beautiful-looking web applications
 We start with a step-by-step walkthrough of building a real application, and in-depth chapters look at the built-in Rails features. Follow along with an extended tutorial as you write a web-based store application. Eliminate tedious configuration and housekeeping; seamlessly incorporate Ajax and JavaScript; send emails and manage background jobs with ActiveJob; build real-time features using WebSockets and ActionCable. Test your applications as you write them using the built-in unit, integration, and system testing frameworks; internationalize your applications; and deploy your applications easily and securely. New in this edition is support for Webpack and advanced JavaScript, as well as Rails' new browser-based system testing.
 
 Rails 1.0 was released in December 2005. This book was there from the start, and didn't just evolve alongside Rails, it evolved with Rails. It has been developed in consultation with the Rails core team. In fact, Rails itself is tested against the code in this book.
-}, image_url: 'rails.jpg', price: 52.00)
+}, image_url: '7apps.JPG', price: 52.00)
