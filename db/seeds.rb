@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
+Product.delete_all
 Product.create!(title: 'Seven Mobile Apps in Seven Weeks', description:
 %{<p>
   <em>Native Apps, Multiple Platforms</em>
@@ -27,3 +27,5 @@ We start with a step-by-step walkthrough of building a real application, and in-
 
 Rails 1.0 was released in December 2005. This book was there from the start, and didn't just evolve alongside Rails, it evolved with Rails. It has been developed in consultation with the Rails core team. In fact, Rails itself is tested against the code in this book.
 }, image_url: '7apps.JPG', price: 52.00)
+
+  Product.create!(title: "Rails, Angular, Postgres, and Bootstrap", description: %{<p>Powerful, Effective, and Effecient Full Stack Web Development</p>}, image_url: '7apps.JPG', price: 45.00)
